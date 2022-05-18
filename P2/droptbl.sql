@@ -1,0 +1,15 @@
+DROP TABLE patient;
+DROP TABLE mother;
+DROP TABLE father;
+DROP TABLE parents;
+DROP TABLE institution;
+DROP TABLE clinic;
+DROP TABLE birthcenter;
+DROP TABLE midwife;
+DROP TABLE infosession;
+DROP TABLE pregnancy;
+DROP TABLE baby;
+DROP TABLE appointment;
+DROP TABLE note;
+DROP TABLE technician;
+DROP TABLE test;
